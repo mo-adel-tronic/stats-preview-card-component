@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-4Eq0pmr7IL)
-- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/profile-card-component/)
+- Solution URL: [solution URL here](https://github.com/mo-adel-tronic/stats-preview-card-component)
+- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/stats-preview-card-component/)
 
 ## My process
 
